@@ -27,10 +27,14 @@ This plugin will automaticaly add a scroll to top on bottom right.
 
 == Changelog ==
 
-### 1.0 
+= 1.0 =
 * Initial release
 
-### 1.1
-Added Screenshot
+= 1.1 =
+* Added Screenshot
+
+
 == Upgrade notice ==
+
+= 1.1 =
 Added Screenshot
