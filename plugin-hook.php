@@ -5,7 +5,7 @@ Plugin URI: http://designingway.com/plugins/rrf-scroll-to-top
 Description: This plugin will add a scroll to top button on footer right.
 Author: Rasel Ahmed
 Author URI: http://designingway.com
-Version: 1.0
+Version: 1.1
 */
 
 
