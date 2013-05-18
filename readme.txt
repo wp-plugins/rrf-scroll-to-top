@@ -4,15 +4,15 @@ Donate link:
 Tags: scroll to top, scroll
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will automaticaly adds a scroll to top on bottom right. 
+This plugin will automaticaly add a scroll to top on bottom right. 
 
 == Description ==
 
-This plugin will automaticaly adds a scroll to top on bottom right. 
+This plugin will automaticaly add a scroll to top on bottom right. 
 
 == Installation ==
 
@@ -23,9 +23,13 @@ This plugin will automaticaly adds a scroll to top on bottom right.
 
 == Screenshots ==
 
+1. Scroll to top arrow on bottom right
+
 == Changelog ==
 
 ### 1.0 
 * Initial release
 
+### 1.1
+Added Screenshot
 == Upgrade notice ==
