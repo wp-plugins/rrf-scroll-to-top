@@ -33,3 +33,4 @@ This plugin will automaticaly add a scroll to top on bottom right.
 ### 1.1
 Added Screenshot
 == Upgrade notice ==
+Added Screenshot
